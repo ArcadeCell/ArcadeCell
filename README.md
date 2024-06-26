@@ -103,7 +103,7 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kevintian4&theme=dark&card_width=385&card_height=180&hide_longest_streak=true" alt="GitHub Streak"/><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kevintian4&theme=dark&card_width=385&card_height=180&hide_longest_streak=true&cache_seconds=1800" alt="GitHub Streak"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevintian4&layout=compact&theme=dark" alt="Top Languages" height="180"/>
 </p>
 <hr>
