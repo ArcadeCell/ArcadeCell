@@ -104,12 +104,12 @@
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kevintian4&theme=dark&card_width=385&card_height=180&hide_longest_streak=true" alt="GitHub Streak"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevintian4&layout=compact&theme=dark" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevintian4&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" height="180"/>
 </p>
 <hr>
 
 ### 🌐 Connect with Me
 <p padding-left='20px'>
-  <a href="https://www.linkedin.com/in/kevin-tian4/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn" width="125px" height="32px"/></a>
-  <a href="mailto:kevintian20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="125px" height="32px"></a>
+  <a href="https://www.linkedin.com/in/kevin-tian4/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn"/></a>
+  <a href="mailto:kevintian20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
