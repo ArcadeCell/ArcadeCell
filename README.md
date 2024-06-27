@@ -48,7 +48,6 @@
   </summary>
   <ul dir="auto">
     <li>TensorFlow</li>
-    <li>PyTorch</li>
     <li>Keras</li>
     <li>Scikit-Learn</li>
     <li>Pandas</li>
