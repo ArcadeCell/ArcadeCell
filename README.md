@@ -1,110 +1,72 @@
-<h1 align="center">👋 Hello, World! I'm Kevin Tian!</h1>
+<h1 align="center">
+  <img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" width="120">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFFFFF&random=false&width=500&height=80&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Kevin+Tian!" alt="Typing SVG" /></a>
+</h1>
 
 ### 🚀 About Me
-- **Current Status:** I'm currently an undergraduate student in the Computing Science program at Simon Fraser University.
-- **Goal:** Utilize cutting-edge technologies to address real-world problems and harness the power of code to deliver innovative solutions.
+- 🎓 I'm currently an undergraduate student in the Computing Science program at Simon Fraser University
+- 🎯 My goal is to leverage emerging technologies and harness the power of code to deliver innovative solutions
+- 🏐 Fun fact about me: I love playing volleyball!
+- 📫 How to reach me: kevintian20@gmail.com
 <hr>
 
 ### 🛠 Skills and Knowledge
 <details>
   <summary>
-    <strong>💻 Frontend Development</strong>
+    <strong>🎨 Frontend Development</strong>
   </summary>
-  <ul dir="auto">
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>Angular</li>
-    <li>Bootstrap</li>
-    <li>jQuery</li>
-  </ul>
+  <img src="https://img.shields.io/badge/HTML5-222222?logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery">
 </details>
+
 <details>
   <summary>
     <strong>⚙️ Backend Development</strong>
   </summary>
-  <ul dir="auto">
-    <li>Node.js</li>
-    <li>Express.js</li>
-    <li>Flask</li>
-    <li>RESTful APIs</li>
-  </ul>
+  <img src="https://img.shields.io/badge/Node.js-303030?logo=node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express">
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask">
+  <img src="https://img.shields.io/badge/RESTful%20APIs-4CAF50?logo=api">
 </details>
+
 <details>
   <summary>
     <strong>📟 Programming Languages</strong>
   </summary>
-  <ul dir="auto">
-    <li>Python</li>
-    <li>JavaScript</li>
-    <li>TypeScript</li>
-    <li>C</li>
-    <li>C++</li>
-    <li>Assembly</li>
-  </ul>
+  <img src="https://img.shields.io/badge/Python-1E1E1E?logo=python">
+  <img src="https://img.shields.io/badge/JavaScript-333333?logo=javascript">
+  <img src="https://img.shields.io/badge/TypeScript-2B2B2B?logo=typescript">
+  <img src="https://img.shields.io/badge/C-1C1C1C?logo=c">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B">
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?logo=assembly">
 </details>
+
 <details>
   <summary>
     <strong>🤖 AI and Machine Learning</strong>
   </summary>
-  <ul dir="auto">
-    <li>TensorFlow</li>
-    <li>Keras</li>
-    <li>Scikit-Learn</li>
-    <li>Pandas</li>
-    <li>NumPy</li>
-    <li>Matplotlib</li>
-    <li>Seaborn</li>
-  </ul>
+  <img src="https://img.shields.io/badge/TensorFlow-202020?logo=tensorflow">
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras">
+  <img src="https://img.shields.io/badge/Scikit--Learn-1F1F1F?logo=scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-4C3A51?logo=seaborn">
 </details>
-<details>
-  <summary>
-    <strong>📊 Data Analysis</strong>
-  </summary>
-  <ul dir="auto">
-    <li>R & RStudio</li>
-    <li>Matlab</li>
-  </ul>
-</details>
-<details>
-  <summary>
-    <strong>⚙️ CI/CD & DevOps</strong>
-  </summary>
-  <ul dir="auto">
-    <li>Git</li>
-    <li>Github Actions</li>
-    <li>Heroku</li>
-    <li>Netlify</li>
-  </ul>
-</details>
+
+
 <hr>
-<!-- <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="Json" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
-</p> -->
 
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kevintian4&theme=dark" alt="GitHub Streak"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevintian4&layout=compact&theme=dark&count_weight=0.7&size_weight=0.3" alt="Top Languages" height="180"/>
 </p>
+
 <hr>
 
 ### 🌐 Connect with Me
