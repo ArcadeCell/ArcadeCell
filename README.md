@@ -17,6 +17,7 @@
   </summary>
   <img src="https://img.shields.io/badge/HTML5-222222?logo=html5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3">
+  <img src="https://img.shields.io/badge/SASS-AA4477?logo=sass">
   <img src="https://img.shields.io/badge/React-20232A?logo=react">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap">
