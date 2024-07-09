@@ -65,7 +65,7 @@
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevintian4&layout=compact&theme=dark&count_weight=0.8&size_weight=0.2" alt="Most Used Languages" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kevintian4&theme=dark&card_height=180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=kevintian4&theme=dark&card_height=180" alt="GitHub Streak" />
 </p>
 
 <hr>
