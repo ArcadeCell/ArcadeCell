@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Node.js-303030?logo=node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express">
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sql">
   <img src="https://img.shields.io/badge/RESTful%20APIs-4CAF50?logo=api">
 </details>
 
@@ -43,6 +44,7 @@
   <img src="https://img.shields.io/badge/TypeScript-2B2B2B?logo=typescript">
   <img src="https://img.shields.io/badge/C-1C1C1C?logo=c">
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java">
   <img src="https://img.shields.io/badge/Assembly-6E4C13?logo=assembly">
 </details>
 
